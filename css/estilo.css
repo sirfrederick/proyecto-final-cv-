@@ -1,0 +1,22 @@
+*{
+    font-family: 'Montserrat',
+        sans-serif;
+}
+p{
+    color: black;
+}
+.imgRedonda{
+    border-radius:100%;
+}
+.sinIcono{
+    list-style-type:none;
+}
+.fa-solid{
+    color: rgb(75, 128, 136);
+}
+.fa-brands{
+        color: rgb(75, 128, 136);
+}
+.footerBackgroundColor{
+            background-color: rgb(9, 11, 11);
+}
